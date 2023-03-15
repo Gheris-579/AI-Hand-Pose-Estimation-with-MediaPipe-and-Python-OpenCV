@@ -1,4 +1,7 @@
 # AI-Hand-Pose-Estimation-with-MediaPipe-and-Python-OpenCV
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
 Short and simple hand detection and tracking using MediaPipe.
 
 
